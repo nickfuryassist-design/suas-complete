@@ -81,7 +81,7 @@ the UI enables the full backtest execution.
 
 ### AI Integration
 
-* **OpenAI API**
+* **Gemini API**
 * **Pydantic Structured Outputs**
 * Guaranteed JSON extraction
 
