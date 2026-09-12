@@ -1,0 +1,6 @@
+[submodule "suas-frontend"]
+	path = suas-frontend
+	url = https://github.com/nickfuryassist-design/suas-frontend.git
+[submodule "suas-backend"]
+	path = suas-backend
+	url = https://github.com/nickfuryassist-design/suas-backend.git
